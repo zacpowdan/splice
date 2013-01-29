@@ -6,7 +6,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=9">
-        <title>We're not just a life insurance company anymore. We're a life company. Great Eastern Life Singapore</title>
+        <title>Zac made more changes at 2.18pm We're not just a life insurance company anymore. We're a life company. Great Eastern Life Singapore</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
         <meta name="format-detection" content="telephone=no">
