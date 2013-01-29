@@ -118,7 +118,7 @@
 		    	<div class="wrap">
 			    	<div class="top">
 				    	<h2>We're a life company</h2>
-				    	<p>At Great Eastern, we go beyond offering you access to the best financial protection solutions. We strongly believe that insurance can never replace what matters most to your family, which is you. And that is why we created the LIVE GREAT Programme. A unique programme dedicated to helping you live healthier, better and longer. OneOne One One One  steps at a times. Becauses it all starts with small changesss...<br><a href="https://livegreat.greateasternlife.com/sg/welcome.htm" class="linkRed">So come on, and join us today at LIVE GREAT Portal!</a>
+				    	<p>At Great Eastern, we go beyond offering you access to the best financial protection solutions. We strongly believe that insurance can never replace what matters most to your family, which is you. And that is why we created the LIVE GREAT Programme. A unique programme dedicated to helping you live healthier, better and longer. OneOneTWOTWOTWOTWo One One One  steps at a times. Becauses it all starts with small changesss...<br><a href="https://livegreat.greateasternlife.com/sg/welcome.htm" class="linkRed">So come on, and join us today at LIVE GREAT Portal!</a>
 						</p>
 			    	</div>
 			    	
